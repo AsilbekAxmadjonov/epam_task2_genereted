@@ -1,5 +1,5 @@
-1
-2
+Changed line 1 differently in git_1
+Changed line 2 differently in git_1
 3
 4
 5
