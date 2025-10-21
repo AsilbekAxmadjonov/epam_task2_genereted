@@ -1,5 +1,5 @@
-1
-2
+Updated line 1 in git_2
+Updated line 2 in git_2
 3
 4
 5
