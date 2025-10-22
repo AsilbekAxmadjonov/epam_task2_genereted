@@ -1,0 +1,26 @@
+From 10b9ac81b255d1e9cd5046f8f6c9a55bff91ffda Mon Sep 17 00:00:00 2001
+From: EPAM Student <student@example.com>
+Date: Tue, 21 Oct 2025 20:23:38 +0000
+Subject: [PATCH] git_1: modified two lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..cb5a8f1 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ 1
+ 2
+-3
+-4
++Modified line 3 in git_1
++Modified line 4 in git_1
+ 5
+ 6
+ 7
+-- 
+2.39.2
+
